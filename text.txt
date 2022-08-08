@@ -1,3 +1,0 @@
-I'm Tanya
-I'm a Frontend Developer
-I'm learning Node JS
